@@ -6,10 +6,10 @@ services:
     networks:
       - 1panel-network
     ports:
-      - ${HOST_IP}:${PANEL_APP_PORT_HTTP}:8080/tcp
-      - ${HOST_IP}:${PANEL_APP_PORT_HTTP}:8080/udp
+      - ${PANEL_APP_PORT_HTTP}:8080/tcp
+      - ${PANEL_APP_PORT_HTTP}:8080/udp
     volumes:
-      - ${DATA_DIR}/data:/root/.synctv
+      - ./data:/root/.synctv
     environment:
       - PUID=0
       - PGID=0
