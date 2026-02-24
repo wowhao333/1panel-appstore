@@ -1,0 +1,8 @@
+additionalProperties:
+  formFields:
+    - default: "5000"
+      envKey: PANEL_APP_PORT_HTTP
+      labelEn: Web Port
+      labelZh: Web 端口
+      required: true
+      type: number
