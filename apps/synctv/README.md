@@ -1,3 +1,7 @@
+# 注意
+
+初始用户名 / 密码：root / root
+
 <div align="center">
   <a href="https://github.com/synctv-org/docs"><img height="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/synctv-org/docs@main/logo/logo.png"/></a>
   <p><em>👫一个可以远程一起看电影/直播的程序🍿</em></p>

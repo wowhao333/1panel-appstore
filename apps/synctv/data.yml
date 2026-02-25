@@ -3,7 +3,7 @@ additionalProperties:
   name: SyncTV
   tags:
     - WebSite
-  shortDescZh: 轻松实现同步观剧。
+  shortDescZh: 轻松实现同步观剧
   shortDescEn: Synchronized viewing, effortlessly
   type: website
   crossVersionUpdate: true
