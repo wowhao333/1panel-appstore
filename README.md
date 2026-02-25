@@ -5,7 +5,10 @@
 ---
 
 ## 应用列表
-- [SyncTV](https://github.com/synctv-org/synctv) (latest / 0.9.15)
+
+|APP|Version|Last maintenance|
+|---|---|---|
+|[SyncTV](https://github.com/synctv-org/synctv)|latest / 0.9.15| 2026/2/26|
 
 ---
 
